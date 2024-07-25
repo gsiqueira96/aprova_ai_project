@@ -6,7 +6,7 @@ remaining_structure = [
     "data/raw/",
     "docs/README.md",
     "notebooks/exploratory_analysis.ipynb",
-    "requirements.txt",
+    "requirements.in",
     "setup.py",
     ".gitignore"
 ]
